@@ -55,22 +55,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TeduShop.Common\TeduShop.Common.csproj">
-      <Project>{0394385a-7560-420c-8d5b-c684eb9635f0}</Project>
-      <Name>TeduShop.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Data\TeduShop.Data.csproj">
-      <Project>{56db55e0-2201-4522-b5b9-c93a20f5c03f}</Project>
-      <Name>TeduShop.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Model\TeduShop.Model.csproj">
-      <Project>{04eb280a-ac6d-453a-9340-fdb3490ec60e}</Project>
-      <Name>TeduShop.Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Services\TeduShop.Services.csproj">
-      <Project>{27a8828e-f2d4-4462-80d6-95b8ca543873}</Project>
-      <Name>TeduShop.Services</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TeduShop.Web\TeduShop.Web.csproj">
       <Project>{031c0571-fb20-4879-98e1-6fb89ad1dd22}</Project>
       <Name>TeduShop.Web</Name>
